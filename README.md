@@ -3,7 +3,7 @@
 Voice Command Desktop Assistant To Perform Various Tasks
 
 # Demo Video
- - [Youtube](https://youtu.be/xIB-IxGrw08) [ <img src="https://uploads-ssl.webflow.com/64cb8d6aa725b757be669346/64cb8f0d06a19430fec1d2ec_YT2.jpg" height="28px" width="28px"> ](https://youtu.be/xIB-IxGrw08)
+ - [Youtube](https://youtu.be/xIB-IxGrw08) [ <img src="[https://uploads-ssl.webflow.com/64cb8d6aa725b757be669346/64cb8f0d06a19430fec1d2ec_YT2.jpg](https://uploads-ssl.webflow.com/64cb8d6aa725b757be669346/64d6ba493365e9c659d18a30_youtube%20(1).svg)" height="28px" width="28px"> ](https://youtu.be/xIB-IxGrw08)
 
 # Commands 
 
