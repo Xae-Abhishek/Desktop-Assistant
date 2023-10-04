@@ -47,5 +47,3 @@ I'm a Computer Science Student second Grad
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xaeabhishek)
 
-
-](https://uploads-ssl.webflow.com/64cb8d6aa725b757be669346/64d6ba493365e9c659d18a30_youtube%20(1).svg)https://uploads-ssl.webflow.com/64cb8d6aa725b757be669346/64d6ba493365e9c659d18a30_youtube%20(1).svg
